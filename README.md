@@ -1,2 +1,2 @@
 # sample
-this is to  demonstrate git commands
+This is to  demonstrate git commands
